@@ -1,2 +1,8 @@
 name: Hank Quinlan, Horrible Cop
 markdown: kramdown
+
+# _config.yml
+
+algolia:
+  application_id: 2SO6Y1NUHX
+  index_name:     jekyll # You can replace that with whatever name you want
