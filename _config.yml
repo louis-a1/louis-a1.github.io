@@ -6,3 +6,4 @@ markdown: kramdown
 algolia:
   application_id: 2SO6Y1NUHX
   index_name:     jekyll # You can replace that with whatever name you want
+  search_only_api_key: 0a21561fc2ca79d090fd287d8db3cc67
